@@ -6,8 +6,6 @@ import org.apache.activemq.util.StopWatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.sql.SQLException;
-
 
 /*
  Generation products: 335912
